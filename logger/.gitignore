@@ -213,3 +213,5 @@ Temporary Items
 
 node_modules
 .env
+application.properties
+package-lock.json
