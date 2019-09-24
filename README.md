@@ -12,5 +12,5 @@
     - Queue Client
     - Receives messages from a Queue (by ARN) and displays them
 ## Code
-[Github - Logger](https://github.com/JBusch2010/queues/tree/master/logger/src)
-[Github - SQS](https://github.com/JBusch2010/queues/tree/master/sqs/src)
+- [Github - Logger](https://github.com/JBusch2010/queues/tree/master/logger/src)
+- [Github - SQS](https://github.com/JBusch2010/queues/tree/master/sqs/src)
