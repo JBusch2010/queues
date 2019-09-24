@@ -15,7 +15,7 @@ function App() {
 
   useEffect( () => {
     const app = Consumer.create({
-      queueUrl: 'https://sqs.us-east-2.amazonaws.com/718627525913/QueueA',
+      queueUrl: "https://sqs.us-east-2.amazonaws.com/718627525913/QueueA",
       handleMessage: handler,
     });
 
