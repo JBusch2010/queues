@@ -14,3 +14,17 @@
 ## Code
 - [Github - Logger](https://github.com/JBusch2010/queues/tree/master/logger/src)
 - [Github - SQS](https://github.com/JBusch2010/queues/tree/master/sqs/src)
+
+## Contributions
+- https://github.com/awsdocs/aws-doc-sdk-examples/blob/master/java/example_code/sqs/src/main/java/aws/example/sqs/SendReceiveMessages.java
+- Brandon Hurrington
+- Nhu Trinh
+- Jackie
+- Matt Stuhring
+- Renee Messick
+- Nicholas Paro
+- Sapana Poudel 
+- Travis Cox
+- Chris Coulon
+- Marisha Hoza
+- Jack Kinne
