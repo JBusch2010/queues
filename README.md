@@ -24,6 +24,7 @@
 
 ## Credits Contributions
 - https://github.com/awsdocs/aws-doc-sdk-examples/blob/master/java/example_code/sqs/src/main/java/aws/example/sqs/SendReceiveMessages.java
+- https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-create-package.html
 - Brandon Hurrington
 - Nhu Trinh
 - Jackie
@@ -40,5 +41,5 @@
 
 ## Screenshots
 ![Lambda Monitoring](assets/LambdaMonitering.png)
-![Cloud Watch Logs](CloudWatchLogs1.png)
-![Cloud Watch Logsg](CloudWatchLogs2.png)
+![Cloud Watch Logs](assets/CloudWatchLogs1.png)
+![Cloud Watch Logsg](assets/CloudWatchLogs2.png)
