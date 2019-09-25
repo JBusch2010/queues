@@ -21,7 +21,7 @@ public class Send {
 
         SendMessageRequest send_msg_request = new SendMessageRequest()
                 .withQueueUrl(queueUrl)
-                .withMessageBody("hello world")
+                .withMessageBody("For kicks")
                 .withDelaySeconds(5);
         sqs.sendMessage(send_msg_request);
 
