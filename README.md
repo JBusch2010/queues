@@ -40,6 +40,12 @@
 - Padmapriva Ganapathi
 
 ## Screenshots
+
+#### Lambda Monitoring
 ![Lambda Monitoring](assets/LambdaMonitering.png)
+
+#### CloudWatchLogs1
 ![Cloud Watch Logs](assets/CloudWatchLogs1.png)
+
+#### CloudWatchLogs2
 ![Cloud Watch Logsg](assets/CloudWatchLogs2.png)
